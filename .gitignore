@@ -3,3 +3,5 @@ videos/
 .DS_Store
 *.mp4
 *.pptx
+*.png
+*.yaml
